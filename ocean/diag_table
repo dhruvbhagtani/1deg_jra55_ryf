@@ -56,6 +56,75 @@ ACCESS-OM2
 "ocean_model", "kmu", "kmu", "ocean-2d-kmu", "all", "none", "none", 2
 
 
+# hourly 2d fields
+
+"ocean-2d-hblt-1-hourly-snap-ym%4yr%2mo", 1, "hours", 1, "days", "time", 1, "years"
+"ocean_model", "hblt", "hblt", "ocean-2d-hblt-1-hourly-snap-ym%4yr%2mo", "all", "none", "none", 2
+
+"ocean-2d-mld-1-hourly-snap-ym%4yr%2mo", 1, "hours", 1, "days", "time", 1, "years"
+"ocean_model", "mld", "mld", "ocean-2d-mld-1-hourly-snap-ym%4yr%2mo", "all", "none", "none", 2
+
+"ocean-2d-net_sfc_heating-1-hourly-snap-ym%4yr%2mo", 1, "hours", 1, "days", "time", 1, "years"
+"ocean_model", "net_sfc_heating", "net_sfc_heating", "ocean-2d-net_sfc_heating-1-hourly-snap-ym%4yr%2mo", "all", "none", "none", 2
+
+"ocean-2d-pbot_t-1-hourly-snap-ym%4yr%2mo", 1, "hours", 1, "days", "time", 1, "years"
+"ocean_model", "pbot_t", "pbot_t", "ocean-2d-pbot_t-1-hourly-snap-ym%4yr%2mo", "all", "none", "none", 2
+
+"ocean-2d-pme_net-1-hourly-snap-ym%4yr%2mo", 1, "hours", 1, "days", "time", 1, "years"
+"ocean_model", "pme_net", "pme_net", "ocean-2d-pme_net-1-hourly-snap-ym%4yr%2mo", "all", "none", "none", 2
+
+"ocean-2d-pme_river-1-hourly-snap-ym%4yr%2mo", 1, "hours", 1, "days", "time", 1, "years"
+"ocean_model", "pme_river", "pme_river", "ocean-2d-pme_river-1-hourly-snap-ym%4yr%2mo", "all", "none", "none", 2
+
+"ocean-2d-surface_salt-1-hourly-snap-ym%4yr%2mo", 1, "hours", 1, "days", "time", 1, "years"
+"ocean_model", "surface_salt", "surface_salt", "ocean-2d-surface_salt-1-hourly-snap-ym%4yr%2mo", "all", "none", "none", 2
+
+"ocean-2d-surface_temp-1-hourly-snap-ym%4yr%2mo", 1, "hours", 1, "days", "time", 1, "years"
+"ocean_model", "surface_temp", "surface_temp", "ocean-2d-surface_temp-1-hourly-snap-ym%4yr%2mo", "all", "none", "none", 2
+
+"ocean-2d-tau_x-1-hourly-snap-ym%4yr%2mo", 1, "hours", 1, "days", "time", 1, "years"
+"ocean_model", "tau_x", "tau_x", "ocean-2d-tau_x-1-hourly-snap-ym%4yr%2mo", "all", "none", "none", 2
+
+"ocean-2d-tau_y-1-hourly-snap-ym%4yr%2mo", 1, "hours", 1, "days", "time", 1, "years"
+"ocean_model", "tau_y", "tau_y", "ocean-2d-tau_y-1-hourly-snap-ym%4yr%2mo", "all", "none", "none", 2
+
+"ocean-2d-bfsfc-1-hourly-snap-ym%4yr%2mo", 1, "hours", 1, "days", "time", 1, "years"
+"ocean_model", "bfsfc", "bfsfc", "ocean-2d-bfsfc-1-hourly-snap-ym%4yr%2mo", "all", "none", "none", 2
+
+
+# hourly 3d fields
+
+"ocean-3d-diff_cbt_t-1-hourly-snap-ym%4yr%2mo", 1, "hours", 1, "days", "time", 1, "years"
+"ocean_model", "diff_cbt_t", "diff_cbt_t", "ocean-3d-diff_cbt_t-1-hourly-snap-ym%4yr%2mo", "all", "none", "none", 2
+
+"ocean-3d-u-1-hourly-snap-ym%4yr%2mo", 1, "hours", 1, "days", "time", 1, "years"
+"ocean_model", "u", "u", "ocean-3d-u-1-hourly-snap-ym%4yr%2mo", "all", "none", "none", 2
+
+"ocean-3d-v-1-hourly-snap-ym%4yr%2mo", 1, "hours", 1, "days", "time", 1, "years"
+"ocean_model", "v", "v", "ocean-3d-v-1-hourly-snap-ym%4yr%2mo", "all", "none", "none", 2
+
+"ocean-3d-pot_rho_0-1-hourly-snap-ym%4yr%2mo", 1, "hours", 1, "days", "time", 1, "years"
+"ocean_model", "pot_rho_0", "pot_rho_0", "ocean-3d-pot_rho_0-1-hourly-snap-ym%4yr%2mo", "all", "none", "none", 2
+
+"ocean-3d-pot_rho_2-1-hourly-snap-ym%4yr%2mo", 1, "hours", 1, "days", "time", 1, "years"
+"ocean_model", "pot_rho_2", "pot_rho_2", "ocean-3d-pot_rho_2-1-hourly-snap-ym%4yr%2mo", "all", "none", "none", 2
+
+"ocean-3d-temp-1-hourly-snap-ym%4yr%2mo", 1, "hours", 1, "days", "time", 1, "years"
+"ocean_model", "temp", "temp", "ocean-3d-temp-1-hourly-snap-ym%4yr%2mo", "all", "none", "none", 2
+
+"ocean-3d-salt-1-hourly-snap-ym%4yr%2mo", 1, "hours", 1, "days", "time", 1, "years"
+"ocean_model", "salt", "salt", "ocean-3d-salt-1-hourly-snap-ym%4yr%2mo", "all", "none", "none", 2
+
+"ocean-3d-wt-1-hourly-snap-ym%4yr%2mo", 1, "hours", 1, "days", "time", 1, "years"
+"ocean_model", "wt", "wt", "ocean-3d-wt-1-hourly-snap-ym%4yr%2mo", "all", "none", "none", 2
+
+"ocean-3d-dVsq-1-hourly-snap-ym%4yr%2mo", 1, "hours", 1, "days", "time", 1, "years"
+"ocean_model", "dVsq", "dVsq", "ocean-3d-dVsq-1-hourly-snap-ym%4yr%2mo", "all", "none", "none", 2
+
+"ocean-3d-Vtsq_array-1-hourly-snap-ym%4yr%2mo", 1, "hours", 1, "days", "time", 1, "years"
+"ocean_model", "Vtsq_array", "Vtsq_array", "ocean-3d-Vtsq_array-1-hourly-snap-ym%4yr%2mo", "all", "none", "none", 2
+
+
 # monthly 3d fields
 
 "ocean-3d-age_global-1-monthly-mean-ym%4yr%2mo", 1, "months", 1, "days", "time", 1, "years"

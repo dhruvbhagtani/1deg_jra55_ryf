@@ -2,15 +2,15 @@
 
 # If submitting to a different project to your default, uncomment line below
 # and change project code as appropriate; also set shortpath below
-# project: v45
+project: x77
 
 # Force payu to always find, and save, files in this scratch project directory
 # (you may need to add the corresponding PBS -l storage flag in sync_data.sh)
-# shortpath: /scratch/v45
+shortpath: /scratch/x77
 
 queue: normal
 walltime: 3:00:00
-jobname: 1deg_jra55_ryf
+jobname: cont_hourly
 mem: 1000GB
 
 # Model configuration
@@ -28,7 +28,7 @@ submodels:
 
     - name: ocean
       model: mom
-      exe: /g/data/ik11/inputs/access-om2/bin/fms_ACCESS-OM_af3a94d_libaccessom2_a227a61.x
+      exe: /scratch/x77/db6174/access-om2/bin/fms_ACCESS-OM-BGC_ea00af3_libaccessom2_392dce3.x
       input: /g/data/ik11/inputs/access-om2/input_20201102/mom_1deg
       ncpus: 216
 

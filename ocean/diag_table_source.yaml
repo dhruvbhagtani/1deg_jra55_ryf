@@ -133,6 +133,41 @@ diag_table:
             hu:
             kmt:
             kmu:
+    'hourly 2d fields':
+        defaults: # these can be overridden for individual fields below
+            file_name_dimension: 2d
+            output_freq: 1
+            output_freq_units: hours
+            reduction_method: snap
+        fields:
+            hblt:
+            mld:
+            net_sfc_heating:
+            pbot_t:
+            pme_net:
+            pme_river:
+            surface_salt:
+            surface_temp:
+            tau_x:
+            tau_y:
+            bfsfc:
+    'hourly 3d fields':
+        defaults: # these can be overridden for individual fields below
+            file_name_dimension: 3d
+            output_freq: 1
+            output_freq_units: hours
+            reduction_method: snap
+        fields:
+            diff_cbt_t:
+            u:
+            v:
+            pot_rho_0:
+            pot_rho_2:
+            temp:
+            salt:
+            wt:
+            dVsq:
+            Vtsq_array:
     'monthly 3d fields':
         defaults:  # these can be overridden for individual fields below
             file_name_dimension: 3d  # descriptor for filename, e.g. 3d, 2d, scalar
