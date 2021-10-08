@@ -139,7 +139,7 @@ diag_table:
             output_freq: 1  # integer: output sampling frequency in output_freq_units (0: every timestep; -1: only at end of run)
             output_freq_units: months  # time units for output: years, months, days, hours, minutes, or seconds
         fields:
-            age_global:
+            # age_global:
             # aiso_bih:
             buoyfreq2_wt:
             diff_cbt_t:
@@ -183,8 +183,8 @@ diag_table:
             output_freq: 1  # integer: output sampling frequency in output_freq_units (0: every timestep; -1: only at end of run)
             output_freq_units: months  # time units for output: years, months, days, hours, minutes, or seconds
         fields:
-            agm:
-            aredi:
+            #agm:
+            #aredi:
             bmf_u:
             bmf_v:
             ekman_we:
@@ -205,7 +205,7 @@ diag_table:
             pme_river:
             river:
             runoff:
-            sea_level_sq:
+            #sea_level_sq:
             sea_level:
             sens_heat:
             sfc_hflux_coupler:
@@ -219,17 +219,19 @@ diag_table:
             swflx:
             tau_x:
             tau_y:
-            temp_int_rhodz:
-            temp_xflux_adv_int_z:
-            temp_xflux_gm_int_z:
-            temp_xflux_ndiffuse_int_z:
-            temp_xflux_submeso_int_z:
-            temp_yflux_adv_int_z:
-            temp_yflux_gm_int_z:
-            temp_yflux_ndiffuse_int_z:
-            temp_yflux_submeso_int_z:
+            #temp_int_rhodz:
+            #temp_xflux_adv_int_z:
+            #temp_xflux_gm_int_z:
+            #temp_xflux_ndiffuse_int_z:
+            #temp_xflux_submeso_int_z:
+            #temp_yflux_adv_int_z:
+            #temp_yflux_gm_int_z:
+            #temp_yflux_ndiffuse_int_z:
+            #temp_yflux_submeso_int_z:
             tx_trans_int_z:
             ty_trans_int_z:
+            usurf:
+            vsurf:
             wfiform:
             wfimelt:
     'monthly 2d fields with different reduction methods':
@@ -256,8 +258,8 @@ diag_table:
             sfc_hflux_pme:
             surface_pot_temp:
             surface_salt:
-            usurf:
-            vsurf:
+            #usurf:
+            #vsurf:
     'daily 2d maximum fields':
         defaults:  # these can be overridden for individual fields below
             file_name_dimension: 2d  # descriptor for filename, e.g. 3d, 2d, scalar
@@ -265,9 +267,9 @@ diag_table:
             output_freq_units: days  # time units for output: years, months, days, hours, minutes, or seconds
             reduction_method: max  # mean, snap, rms, pow##, min, max, or diurnal##
         fields:
-            bottom_temp:
-            sea_level:
-            surface_pot_temp:
+            #bottom_temp:
+            #sea_level:
+            #surface_pot_temp:
     'daily 2d minimum fields':
         defaults:  # these can be overridden for individual fields below
             file_name_dimension: 2d  # descriptor for filename, e.g. 3d, 2d, scalar
