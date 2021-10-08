@@ -539,7 +539,7 @@
     dVsq_param        = .false.
     u_coeff_a         = 80.0
     u_coeff_b         = 1.0
-    exp_coeff         = -0.01
+    exp_coeff         = -0.004
     visc_cbu_iw       = 0.0
     visc_cbu_iw       = 0.0
 /
