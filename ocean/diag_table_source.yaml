@@ -141,31 +141,31 @@ diag_table:
         fields:
             # age_global:
             # aiso_bih:
-            buoyfreq2_wt:
+            # buoyfreq2_wt:
             diff_cbt_t:
             dzt:  # potentially calculable from other fields - https://github.com/COSIMA/access-om2/issues/203#issuecomment-635752170
             pot_rho_0:
             pot_rho_2:
-            pot_temp:
+            # pot_temp:
             salt:
-            temp_xflux_adv:
-            temp_yflux_adv:
+            # temp_xflux_adv:
+            # temp_yflux_adv:
             temp:
             # tx_trans_gm:
             # tx_trans_nrho_submeso:
             # tx_trans_rho_gm:
             # tx_trans_rho:
             # tx_trans_submeso:
-            tx_trans:
+            # tx_trans:
             ty_trans_gm:
-            ty_trans_nrho_submeso:
+            # ty_trans_nrho_submeso:
             ty_trans_rho_gm:
             ty_trans_rho:
-            ty_trans_submeso:
+            # ty_trans_submeso:
             ty_trans:
             u:
             v:
-            vert_pv:
+            # vert_pv:
             # vorticity_z:
             wt:
     'monthly 3d squared fields':  # for calculating EKE etc
@@ -175,20 +175,20 @@ diag_table:
             output_freq_units: months  # time units for output: years, months, days, hours, minutes, or seconds
             reduction_method: pow02  # mean, snap, rms, pow##, min, max, or diurnal##
         fields:
-            u:
-            v:
+            # u:
+            # v:
     'monthly 2d fields':
         defaults:  # these can be overridden for individual fields below
             file_name_dimension: 2d  # descriptor for filename, e.g. 3d, 2d, scalar
             output_freq: 1  # integer: output sampling frequency in output_freq_units (0: every timestep; -1: only at end of run)
             output_freq_units: months  # time units for output: years, months, days, hours, minutes, or seconds
         fields:
-            #agm:
-            #aredi:
-            bmf_u:
-            bmf_v:
-            ekman_we:
-            eta_nonbouss:
+            # agm:
+            # aredi:
+            # bmf_u:
+            # bmf_v:
+            # ekman_we:
+            # eta_nonbouss:
             evap_heat:
             evap:
             fprec_melt_heat:
@@ -205,7 +205,7 @@ diag_table:
             pme_river:
             river:
             runoff:
-            #sea_level_sq:
+            # sea_level_sq:
             sea_level:
             sens_heat:
             sfc_hflux_coupler:
@@ -214,8 +214,8 @@ diag_table:
             sfc_salt_flux_coupler:
             sfc_salt_flux_ice:
             sfc_salt_flux_restore:
-            surface_pot_temp:
-            surface_salt:
+            # surface_pot_temp:
+            # surface_salt:
             swflx:
             tau_x:
             tau_y:
@@ -230,8 +230,8 @@ diag_table:
             #temp_yflux_submeso_int_z:
             tx_trans_int_z:
             ty_trans_int_z:
-            usurf:
-            vsurf:
+            # usurf:
+            # vsurf:
             wfiform:
             wfimelt:
     'monthly 2d fields with different reduction methods':
@@ -241,23 +241,23 @@ diag_table:
             output_freq_units: months  # time units for output: years, months, days, hours, minutes, or seconds
         fields:
             mld: {reduction_method: max}  # max avoids spurious small values due to rainfall
-            surface_pot_temp: {reduction_method: min}  # min for comparison with foundation temperature
+            # surface_pot_temp: {reduction_method: min}  # min for comparison with foundation temperature
     'daily 2d fields':
         defaults:  # these can be overridden for individual fields below
             file_name_dimension: 2d  # descriptor for filename, e.g. 3d, 2d, scalar
             output_freq: 1  # integer: output sampling frequency in output_freq_units (0: every timestep; -1: only at end of run)
             output_freq_units: days  # time units for output: years, months, days, hours, minutes, or seconds
         fields:
-            bottom_temp:
-            frazil_3d_int_z:
-            mld:
-            pme_river:
-            sea_level:
-            sfc_hflux_coupler:
-            sfc_hflux_from_runoff:
-            sfc_hflux_pme:
-            surface_pot_temp:
-            surface_salt:
+            # bottom_temp:
+            # frazil_3d_int_z:
+            # mld:
+            # pme_river:
+            # sea_level:
+            # sfc_hflux_coupler:
+            # sfc_hflux_from_runoff:
+            # sfc_hflux_pme:
+            # surface_pot_temp:
+            # surface_salt:
             #usurf:
             #vsurf:
     'daily 2d maximum fields':
@@ -277,7 +277,7 @@ diag_table:
             output_freq_units: days  # time units for output: years, months, days, hours, minutes, or seconds
             reduction_method: min  # mean, snap, rms, pow##, min, max, or diurnal##
         fields:
-            surface_pot_temp:  # min for comparison with foundation temperature
+            # surface_pot_temp:  # min for comparison with foundation temperature
     'daily scalar snapshots':  # snapshots of global integrals give better parallel performance
         defaults:  # these can be overridden for individual fields below
             file_name_dimension: scalar  # descriptor for filename, e.g. 3d, 2d, scalar
