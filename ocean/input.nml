@@ -534,6 +534,10 @@
     smooth_blmc       = .false.
     smooth_ri_kmax_eq_kmu = .true.
     use_this_module   = .true.
+    dVsq_param        = .false.
+    u_coeff_a         = 80.0
+    u_coeff_b         = 1.0
+    exp_coeff         = -0.01
     visc_cbu_iw       = 0.0
 /
 
@@ -595,6 +599,10 @@
 /
 
 &surface_flux_nml
+/
+
+&wind_mask_nml
+    use_this_module = .false.
 /
 
 &xgrid_nml
