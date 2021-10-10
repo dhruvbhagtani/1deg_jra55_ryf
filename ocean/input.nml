@@ -603,7 +603,7 @@
 /
 
 &wind_mask_nml
-    use_this_module = .true.
+    use_this_module = .false.
 /
 
 &xgrid_nml
