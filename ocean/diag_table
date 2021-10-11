@@ -76,6 +76,9 @@ ACCESS-OM2
 "ocean-3d-temp-1-monthly-mean-ym%4yr%2mo", 1, "months", 1, "days", "time", 1, "years"
 "ocean_model", "temp", "temp", "ocean-3d-temp-1-monthly-mean-ym%4yr%2mo", "all", "average", "none", 2
 
+"ocean-3d-tx_trans-1-monthly-mean-ym%4yr%2mo", 1, "months", 1, "days", "time", 1, "years"
+"ocean_model", "tx_trans", "tx_trans", "ocean-3d-tx_trans-1-monthly-mean-ym%4yr%2mo", "all", "average", "none", 2
+
 "ocean-3d-ty_trans_gm-1-monthly-mean-ym%4yr%2mo", 1, "months", 1, "days", "time", 1, "years"
 "ocean_model", "ty_trans_gm", "ty_trans_gm", "ocean-3d-ty_trans_gm-1-monthly-mean-ym%4yr%2mo", "all", "average", "none", 2
 
@@ -117,6 +120,9 @@ ACCESS-OM2
 
 "ocean-2d-frazil_3d_int_z-1-monthly-mean-ym%4yr%2mo", 1, "months", 1, "days", "time", 1, "years"
 "ocean_model", "frazil_3d_int_z", "frazil_3d_int_z", "ocean-2d-frazil_3d_int_z-1-monthly-mean-ym%4yr%2mo", "all", "average", "none", 2
+
+"ocean-2d-hblt-1-monthly-mean-ym%4yr%2mo", 1, "months", 1, "days", "time", 1, "years"
+"ocean_model", "hblt", "hblt", "ocean-2d-hblt-1-monthly-mean-ym%4yr%2mo", "all", "average", "none", 2
 
 "ocean-2d-lprec-1-monthly-mean-ym%4yr%2mo", 1, "months", 1, "days", "time", 1, "years"
 "ocean_model", "lprec", "lprec", "ocean-2d-lprec-1-monthly-mean-ym%4yr%2mo", "all", "average", "none", 2
