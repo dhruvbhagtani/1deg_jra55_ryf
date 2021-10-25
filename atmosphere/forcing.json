@@ -10,6 +10,15 @@
       "filename": "INPUT/RYF.rlds.1990_1991.nc",
       "fieldname": "rlds",
       "cname": "lwfld_ai"
+      "perturbations": [
+        {
+          "type": "offset",
+          "dimension": "spatial",
+          "value": "INPUT/rlds_offset.nc",
+          "calendar": "forcing",
+          "comment": "Offset is done using a cosine wave of 20 W m-2 amplitude, with heat gain at the equator and heat loss at the poles"
+        }
+      ]
     },
     {
       "filename": "INPUT/RYF.prra.1990_1991.nc",
