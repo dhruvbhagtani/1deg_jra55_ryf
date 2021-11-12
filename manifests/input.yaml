@@ -487,15 +487,20 @@ work/atmosphere/INPUT/make_ryf/make_ryf.py:
     binhash: 9fbb6a9f6bec50ccb2afafecae9a5ff7
     md5: c5ef2aeff9516ec76c80e76aef08d352
 work/atmosphere/INPUT/rlds_offset.nc:
-  fullpath: /scratch/x77/db6174/1deg_inputs/vary_rlds/scaling/rlds_offset.nc
+  fullpath: /scratch/x77/db6174/1deg_inputs/vary_rlds20_SAT3.75/scaling/rlds_offset.nc
   hashes:
-    binhash: 06462b4aed161f40d2c3a2138df23d70
+    binhash: 91035d5cc64946031c97b0c3f33c9c8d
     md5: b8f7bdc4f6c31d759078004dd7a323f9
 work/atmosphere/INPUT/rmp_jrar_to_cict_CONSERV.nc:
   fullpath: /g/data/ik11/inputs/access-om2/input_20201102/yatm_1deg/rmp_jrar_to_cict_CONSERV.nc
   hashes:
     binhash: d7b11ae77fba63aecab0892891135a1f
     md5: 10f0b5ea6b8102a03ad1140e5163a0f7
+work/atmosphere/INPUT/sat_offset.nc:
+  fullpath: /scratch/x77/db6174/1deg_inputs/vary_rlds20_SAT3.75/scaling/sat_offset.nc
+  hashes:
+    binhash: 921176d90e69babf1323c355fd89ba86
+    md5: 5cef888f9aed445fdc6a01d71e833974
 work/ice/RESTART/grid.nc:
   copy: true
   fullpath: /g/data/ik11/inputs/access-om2/input_20201102/cice_1deg/grid.nc

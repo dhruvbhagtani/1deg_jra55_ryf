@@ -24,7 +24,7 @@ submodels:
       input:
             - /g/data/ik11/inputs/access-om2/input_20201102/yatm_1deg
             - /g/data/ik11/inputs/JRA-55/RYF/v1-4
-            - /scratch/x77/db6174/1deg_inputs/vary_rlds/scaling
+            - /scratch/x77/db6174/1deg_inputs/vary_rlds20_SAT3.75/scaling
       ncpus: 1
 
     - name: ocean
