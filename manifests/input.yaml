@@ -501,6 +501,11 @@ work/atmosphere/INPUT/sat_offset.nc:
   hashes:
     binhash: 921176d90e69babf1323c355fd89ba86
     md5: 5cef888f9aed445fdc6a01d71e833974
+work/atmosphere/INPUT/tas_offset.nc:
+  fullpath: /scratch/x77/db6174/1deg_inputs/vary_rlds20_SAT3.75/scaling/tas_offset.nc
+  hashes:
+    binhash: 167a6c677a159d1461a30125298ea99c
+    md5: fa7a3bd7d9e65524b29ccd69fc35731d
 work/ice/RESTART/grid.nc:
   copy: true
   fullpath: /g/data/ik11/inputs/access-om2/input_20201102/cice_1deg/grid.nc
