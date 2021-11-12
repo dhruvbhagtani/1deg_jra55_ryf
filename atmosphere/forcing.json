@@ -49,7 +49,7 @@
         {
           "type": "offset",
           "dimension": "spatial",
-          "value": "INPUT/tas_offset.nc",
+          "value": "INPUT/sat_offset.nc",
           "calendar": "forcing",
           "comment": "Offset is done using a cosine wave of 3.75 degree Celsius amplitude, with heating at the equator and cooling at the poles"
         }
