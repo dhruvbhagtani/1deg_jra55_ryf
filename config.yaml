@@ -9,7 +9,7 @@ project: x77
 shortpath: /scratch/x77
 
 queue: normal
-ncpus: 240
+ncpus: 216
 walltime: 3:00:00
 jobname: flux_forced
 # mem: 1000GB
