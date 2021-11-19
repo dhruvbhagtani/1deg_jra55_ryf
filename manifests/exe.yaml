@@ -1,17 +1,7 @@
 format: yamanifest
 version: 1.0
 ---
-work/atmosphere/yatm_a227a61.exe:
-  fullpath: /g/data/ik11/inputs/access-om2/bin/yatm_a227a61.exe
-  hashes:
-    binhash: 1a23f12c2b93cd6a1d8a98b915ceb87a
-    md5: d74089ad1e305b00e3d0be74ce1848b3
-work/ice/cice_auscom_360x300_24p_2572851_libaccessom2_a227a61.exe:
-  fullpath: /g/data/ik11/inputs/access-om2/bin/cice_auscom_360x300_24p_2572851_libaccessom2_a227a61.exe
-  hashes:
-    binhash: 34f4e3b01cb4fd2a460720ff16e6e3ec
-    md5: 7db27f2d1413cefa6fc538a82d3d33cd
-work/ocean/fms_MOM_solo.x:
+work/fms_MOM_solo.x:
   fullpath: /scratch/x77/db6174/MoM5/exec/nci/MOM_solo/fms_MOM_solo.x
   hashes:
     binhash: f5d4eaa1bc9c69176c284fd5ebb7a25f

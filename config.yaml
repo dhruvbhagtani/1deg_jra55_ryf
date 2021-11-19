@@ -9,37 +9,19 @@ project: x77
 shortpath: /scratch/x77
 
 queue: normal
+ncpus: 240
 walltime: 3:00:00
 jobname: flux_forced
-mem: 1000GB
+# mem: 1000GB
 
 # Model configuration
-name: common
-model: access-om2
-input: /g/data/ik11/inputs/access-om2/input_20201102/common_1deg_jra55
-submodels:
-    - name: atmosphere
-      model: yatm
-      exe: /g/data/ik11/inputs/access-om2/bin/yatm_a227a61.exe
-      input:
-            - /g/data/ik11/inputs/access-om2/input_20201102/yatm_1deg
-            - /g/data/ik11/inputs/JRA-55/RYF/v1-4
-      ncpus: 1
-
-    - name: ocean
-      model: mom
-      exe: /scratch/x77/db6174/MoM5/exec/nci/MOM_solo/fms_MOM_solo.x
-      input: 
-            - /g/data/ik11/inputs/access-om2/input_20201102/mom_1deg
-            - /scratch/x77/db6174/1deg_inputs/flux_forced_attempt1
-      ncpus: 216
-
-    - name: ice
-      model: cice5
-      exe: /g/data/ik11/inputs/access-om2/bin/cice_auscom_360x300_24p_2572851_libaccessom2_a227a61.exe
-      input: /g/data/ik11/inputs/access-om2/input_20201102/cice_1deg
-      ncpus: 24
-
+# name: common
+model: mom
+#    - name: ocean
+exe: /scratch/x77/db6174/MoM5/exec/nci/MOM_solo/fms_MOM_solo.x
+input: 
+     - /g/data/ik11/inputs/access-om2/input_20201102/mom_1deg
+     - /scratch/x77/db6174/1deg_inputs/flux_forced_attempt1
 # Collation
 collate:
   restart: true
