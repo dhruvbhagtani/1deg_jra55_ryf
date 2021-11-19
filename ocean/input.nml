@@ -376,6 +376,14 @@
 /
 
 &ocean_solo_nml
+    months = 1
+    days = 0
+    hours = 0
+    minutes = 0
+    seconds = 0
+    date_init = 1900,1,1,0,0,0
+    calender = 'gregorian'
+    dt_cpld = 86400
 /
 
 &ocean_sponges_eta_nml
@@ -388,17 +396,6 @@
 
 &ocean_sponges_velocity_nml
     use_this_module   = .false.
-/
-
-&ocean_solo_nml
-    months = 12
-    days = 0
-    hours = 0
-    minutes = 0
-    seconds = 0
-    date_init = 1900,1,1,0,0,0
-    calender = 'gregorian'
-    dt_cpld = 86400
 /
 
 &ocean_submesoscale_nml
