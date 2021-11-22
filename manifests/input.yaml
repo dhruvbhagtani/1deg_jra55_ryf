@@ -61,6 +61,11 @@ work/INPUT/ocean_mosaic.nc:
   hashes:
     binhash: 6aadd388078defe3f80df6f3de77b4bd
     md5: cb42e630ee31d3686156fcbdc2f9d07c
+work/INPUT/ocean_solo.intermediate.res:
+  fullpath: /home/156/db6174/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/restart_file/ocean_solo.intermediate.res
+  hashes:
+    binhash: 06ebd75818cb7bd7302ece95da285f1d
+    md5: 0e9b03429743d881a0c435b9c0bd70a4
 work/INPUT/ocean_temp_salt.res.nc:
   fullpath: /g/data/ik11/inputs/access-om2/input_20201102/mom_1deg/ocean_temp_salt.res.nc
   hashes:
