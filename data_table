@@ -3,8 +3,8 @@
 # If user wants to override fieldname_code with a const set fieldname_file = ""
 # and factor = const
 # B: in coupled mode, none of the below is required. 
-"OCN", "u_flux", "tau_x" , "INPUT/tau_x.nc",.true.,1.0
-"OCN", "v_flux", "tau_y" , "INPUT/tau_y.nc",.true.,1.0
+"OCN", "u_flux", "tau_x" , "INPUT/tau_x_new.nc",.true.,1.0
+"OCN", "v_flux", "tau_y" , "INPUT/tau_y_new.nc",.true.,1.0
 #B "OCN", "sw_flux","sw_flux","INPUT/sw_flux.nc",.false.,0.0
 #B "OCN", "lw_flux","lw_flux","INPUT/lw_flux.nc",.false.,0.0
 #B "OCN", "lprec","pme","INPUT/pme_flux.nc",.false.,1.0
