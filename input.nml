@@ -377,9 +377,9 @@
 /
 
 &ocean_solo_nml
-    months = 1
+    months = 0
     days = 0
-    hours = 0
+    hours = 1
     minutes = 0
     seconds = 0
     date_init = 1900,1,1,0,0,0
