@@ -11,7 +11,7 @@
 "OCN", "q_flux", "evap", "INPUT/evap_new.nc", .false. ,1.0
 "OCN", "lprec", "lprec", "INPUT/lprec_new.nc", .false., 1.0
 "OCN", "fprec", "fprec", "INPUT/fprec_new.nc", .false., 1.0
-"OCN", "runoff", "runoff", "INPUT/runoff_new.nc", .false., 1.0"
+"OCN", "runoff", "runoff", "INPUT/runoff_new.nc", .false., 1.0
 #"OCN", "cdlprec","pme","INPUT/pme_flux.nc",.false.,1.0
 #B "OCN", "t_flux","","",.false.,0.0
 #B "OCN", "q_flux","","",.false.,0.0
