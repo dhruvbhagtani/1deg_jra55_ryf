@@ -133,11 +133,11 @@ diag_table:
             hu:
             kmt:
             kmu:
-    'monthly 3d fields':
+    'daily 3d fields':
         defaults:  # these can be overridden for individual fields below
             file_name_dimension: 3d  # descriptor for filename, e.g. 3d, 2d, scalar
             output_freq: 1  # integer: output sampling frequency in output_freq_units (0: every timestep; -1: only at end of run)
-            output_freq_units: months  # time units for output: years, months, days, hours, minutes, or seconds
+            output_freq_units: days  # time units for output: years, months, days, hours, minutes, or seconds
         fields:
             # age_global:
             # aiso_bih:
@@ -168,20 +168,20 @@ diag_table:
             # vert_pv:
             # vorticity_z:
             wt:
-    'monthly 3d squared fields':  # for calculating EKE etc
+    'daily 3d squared fields':  # for calculating EKE etc
         defaults:  # these can be overridden for individual fields below
             file_name_dimension: 3d  # descriptor for filename, e.g. 3d, 2d, scalar
             output_freq: 1  # integer: output sampling frequency in output_freq_units (0: every timestep; -1: only at end of run)
-            output_freq_units: months  # time units for output: years, months, days, hours, minutes, or seconds
+            output_freq_units: days  # time units for output: years, months, days, hours, minutes, or seconds
             reduction_method: pow02  # mean, snap, rms, pow##, min, max, or diurnal##
         fields:
             # u:
             # v:
-    'monthly 2d fields':
+    'daily 2d fields':
         defaults:  # these can be overridden for individual fields below
             file_name_dimension: 2d  # descriptor for filename, e.g. 3d, 2d, scalar
             output_freq: 1  # integer: output sampling frequency in output_freq_units (0: every timestep; -1: only at end of run)
-            output_freq_units: months  # time units for output: years, months, days, hours, minutes, or seconds
+            output_freq_units: days  # time units for output: years, months, days, hours, minutes, or seconds
         fields:
             # agm:
             # aredi:
@@ -243,12 +243,12 @@ diag_table:
         fields:
             mld: {reduction_method: max}  # max avoids spurious small values due to rainfall
             # surface_pot_temp: {reduction_method: min}  # min for comparison with foundation temperature
-    'daily 2d fields':
-        defaults:  # these can be overridden for individual fields below
-            file_name_dimension: 2d  # descriptor for filename, e.g. 3d, 2d, scalar
-            output_freq: 1  # integer: output sampling frequency in output_freq_units (0: every timestep; -1: only at end of run)
-            output_freq_units: days  # time units for output: years, months, days, hours, minutes, or seconds
-        fields:
+#   'daily 2d fields':
+#        defaults:  # these can be overridden for individual fields below
+#            file_name_dimension: 2d  # descriptor for filename, e.g. 3d, 2d, scalar
+#            output_freq: 1  # integer: output sampling frequency in output_freq_units (0: every timestep; -1: only at end of run)
+#            output_freq_units: days  # time units for output: years, months, days, hours, minutes, or seconds
+#        fields:
             # bottom_temp:
             # frazil_3d_int_z:
             # mld:
