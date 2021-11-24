@@ -8,7 +8,7 @@
 "OCN", "sw_flux","swflx",     "INPUT/swflx_new.nc",     .true. ,0.0
 "OCN", "lw_flux","lw_heat",   "INPUT/lw_heat_new.nc",   .true. ,0.0
 "OCN", "t_flux", "sens_heat", "INPUT/sens_heat_new.nc", .true. ,0.0
-"OCN", "q_flux", "evap_heat", "INPUT/evap_heat_new.nc", .true. ,0.0
+"OCN", "q_flux", "evap", "INPUT/evap_new.nc", .true. ,0.0
 #"OCN", "lprec", "lprec", "INPUT/lprec_new.nc", .false., 1.0
 #"OCN", "fprec", "fprec", "INPUT/fprec_new.nc", .false., 1.0
 #"OCN", "runoff", "runoff", "INPUT/runoff_new.nc", .false., 1.0
