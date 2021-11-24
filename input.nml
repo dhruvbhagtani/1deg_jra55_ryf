@@ -197,7 +197,7 @@
     barotropic_split  = 80
     cmip_units        = .true.
     debug             = .false.
-    dt_ocean          = 3600
+    dt_ocean          = 900
     io_layout         = 4, 3
     layout            = 16, 15
     surface_height_split = 1
@@ -384,7 +384,7 @@
     seconds = 0
     date_init = 1900,1,1,0,0,0
     calendar = 'noleap'
-    dt_cpld = 3600
+    dt_cpld = 900
 /
 
 &ocean_sponges_eta_nml
