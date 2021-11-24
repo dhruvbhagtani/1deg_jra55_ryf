@@ -22079,8 +22079,8 @@ work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_control_hourly/tidy_restarts
 work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/COMMIT_EDITMSG:
   fullpath: /home/156/db6174/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/COMMIT_EDITMSG
   hashes:
-    binhash: f1d05d51fcadc2147ca8b90b2a9970a6
-    md5: 8e9be5fdd506e19647f758917ad94aca
+    binhash: 051d56564806e0ea87ba8522c1510a27
+    md5: aa847119fd6bb263564786a37db6734a
 work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/HEAD:
   fullpath: /home/156/db6174/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/HEAD
   hashes:
@@ -22164,8 +22164,8 @@ work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/ho
 work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/index:
   fullpath: /home/156/db6174/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/index
   hashes:
-    binhash: 1b4fcecdf938e20ab70c0f4a239b3dd7
-    md5: d09d376141ee0e6bb3d3e0c92b18a576
+    binhash: b52d6fd0a0d94ebcc6a8f67768738ecd
+    md5: a13ad6618ab7d9a87133e51a7833ea0f
 work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/info/exclude:
   fullpath: /home/156/db6174/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/info/exclude
   hashes:
@@ -22174,13 +22174,13 @@ work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/in
 work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/logs/HEAD:
   fullpath: /home/156/db6174/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/logs/HEAD
   hashes:
-    binhash: 1d6abe554a723add24f04408b3e78272
-    md5: 40f4aa4e8ae23be9ef823b5fece13bd0
+    binhash: 66f6b4fdfbdf093077dd79425c69f082
+    md5: 0ba12fbf6ec3c73f3a994ac78e1a43f7
 work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/logs/refs/heads/flux_forced:
   fullpath: /home/156/db6174/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/logs/refs/heads/flux_forced
   hashes:
-    binhash: b866d883d6f4f0a64df5b85bf0c1dec4
-    md5: 1e58f7b43edb25d5f5ff1d614c71e518
+    binhash: 75c824e957d7b27e6f784a2537399a49
+    md5: 9fef6e50f2ffd0fb48f52e4685d229b6
 work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/logs/refs/heads/master:
   fullpath: /home/156/db6174/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/logs/refs/heads/master
   hashes:
@@ -22206,6 +22206,11 @@ work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/lo
   hashes:
     binhash: 605626f9982b7671b9f357e91b5bcc0d
     md5: d4a9616b9a218f58381d2a8bc81f7d8c
+? work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/objects/00/9f5d3ca2d15fbdd9866bee838ecb1e7353ee19
+: fullpath: /home/156/db6174/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/objects/00/9f5d3ca2d15fbdd9866bee838ecb1e7353ee19
+  hashes:
+    binhash: 1090eff79c75ca3adc57e9bf7ce44390
+    md5: 49192846a0ba2952c1df594df31a53cd
 ? work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/objects/02/9acf04d2727b6b0e53041c0c5eff32d1088afd
 : fullpath: /home/156/db6174/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/objects/02/9acf04d2727b6b0e53041c0c5eff32d1088afd
   hashes:
@@ -22356,6 +22361,11 @@ work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/lo
   hashes:
     binhash: a1d43024acc3f937bfff22e4b7f8af4f
     md5: b7a92c9596969e981b3e3ba5adfcf046
+? work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/objects/1f/3d06322e6e7905b4450dc1248cd093c251b8af
+: fullpath: /home/156/db6174/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/objects/1f/3d06322e6e7905b4450dc1248cd093c251b8af
+  hashes:
+    binhash: ad2a1a3e515d687f80a599e1dcae84e8
+    md5: b227d921274e095fa1f34eb1bb158bca
 ? work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/objects/1f/64138ebfda40877d3d0a53a0967e6effe0ae9c
 : fullpath: /home/156/db6174/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/objects/1f/64138ebfda40877d3d0a53a0967e6effe0ae9c
   hashes:
@@ -22701,6 +22711,11 @@ work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/lo
   hashes:
     binhash: 4413048d17e658ec0640ddc1bddf4bc5
     md5: 1c7b668545226d70edccd25c805f6fe0
+? work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/objects/50/b72515ebc09f283db90221a0ef793ec027a4ad
+: fullpath: /home/156/db6174/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/objects/50/b72515ebc09f283db90221a0ef793ec027a4ad
+  hashes:
+    binhash: 90cf177049b0077abea7e65c41245ede
+    md5: dc4bc2044a56fd908b9b71ca6bd3a955
 ? work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/objects/51/1f3cbc3f519dee0e0ec97bf949886f6b76af37
 : fullpath: /home/156/db6174/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/objects/51/1f3cbc3f519dee0e0ec97bf949886f6b76af37
   hashes:
@@ -22726,6 +22741,11 @@ work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/lo
   hashes:
     binhash: 36e930e64cea6ea27324626f2a4781c9
     md5: 04f7eb51226be78c1e7bc0ee3dac570a
+? work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/objects/56/3f6f666f5f48ad98c05e2fc5253ed92036c038
+: fullpath: /home/156/db6174/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/objects/56/3f6f666f5f48ad98c05e2fc5253ed92036c038
+  hashes:
+    binhash: 12ddbc6ccf56ef81c623aaf3e5c5bff6
+    md5: e621d7cbdebe58670cb4747c0605e704
 ? work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/objects/56/b7023bb4b82df4b6abe2d5c72ab6a6c0f17ba1
 : fullpath: /home/156/db6174/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/objects/56/b7023bb4b82df4b6abe2d5c72ab6a6c0f17ba1
   hashes:
@@ -22749,7 +22769,7 @@ work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/lo
 ? work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/objects/5c/42ccbfcd83e86c78acd08c0b9eafd7ac9688ed
 : fullpath: /home/156/db6174/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/objects/5c/42ccbfcd83e86c78acd08c0b9eafd7ac9688ed
   hashes:
-    binhash: 72ab661c081369aa314431ab7b7b07d3
+    binhash: 05b89bbeb23f82d80d229d6071c0c38f
     md5: e7d4b39e53285cf8dee7b1164f8caf8e
 ? work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/objects/5c/6c4425ba328981a082287a2ed696900784d8dc
 : fullpath: /home/156/db6174/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/objects/5c/6c4425ba328981a082287a2ed696900784d8dc
@@ -23021,6 +23041,11 @@ work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/lo
   hashes:
     binhash: 34a39000327f219bb9e537bccef46e68
     md5: 5d2a39562e616e55df655a1a1b3ecd81
+? work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/objects/7f/db243367601708f9636cbc064ebee37fc889ef
+: fullpath: /home/156/db6174/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/objects/7f/db243367601708f9636cbc064ebee37fc889ef
+  hashes:
+    binhash: 634c538a3dceffdfe8eb7303455f0170
+    md5: cab59533c7cc8634aa1c7b72b068ec0c
 ? work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/objects/80/6178b56b729b98a2f81f485b63a83cc0a1d60c
 : fullpath: /home/156/db6174/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/objects/80/6178b56b729b98a2f81f485b63a83cc0a1d60c
   hashes:
@@ -23834,7 +23859,7 @@ work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/lo
 ? work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/objects/pack/pack-c514637affbbb4c7da3cb1153d727e980c539d9d.pack
 : fullpath: /home/156/db6174/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/objects/pack/pack-c514637affbbb4c7da3cb1153d727e980c539d9d.pack
   hashes:
-    binhash: 1b1e09bfdf9f6de7ff8bec8d6548c3c1
+    binhash: 8b45afe5b4612f0c409ba6d47227395b
     md5: 7afee2d63e7568bda2727aff9895de79
 work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/packed-refs:
   fullpath: /home/156/db6174/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/packed-refs
@@ -23844,8 +23869,8 @@ work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/pa
 work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/refs/heads/flux_forced:
   fullpath: /home/156/db6174/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/refs/heads/flux_forced
   hashes:
-    binhash: f818a90114edc1c30313c69deeca27f8
-    md5: d30c0f788dbca8a6b49b6af2ded33025
+    binhash: 80c43ab8a0cf596eb4159adf0c3918a8
+    md5: 11ebc5538c3cfca6367f9f2f46254424
 work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/refs/heads/master:
   fullpath: /home/156/db6174/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/.git/refs/heads/master
   hashes:
@@ -23891,21 +23916,11 @@ work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/field_t
   hashes:
     binhash: d87ecefb9a2d627c0f7b3694aa904605
     md5: fd9e2a53d2e9b638cb4371c17960d8ce
-work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/flux_forced_c.e31659803:
-  fullpath: /home/156/db6174/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/flux_forced_c.e31659803
-  hashes:
-    binhash: 1802b9037479c4764787484a382fe13a
-    md5: d41d8cd98f00b204e9800998ecf8427e
-work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/flux_forced_c.o31659803:
-  fullpath: /home/156/db6174/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/flux_forced_c.o31659803
-  hashes:
-    binhash: 63d26bb4d4bdcf6b1fc12d87398f87d5
-    md5: 691752b45136e39eb928812bf4b0399d
 work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/input.nml:
   fullpath: /home/156/db6174/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/input.nml
   hashes:
-    binhash: b627b4e05c5e94bcddd095e6abbae138
-    md5: c1d19e6dcc170d357a7e273faf4e92d3
+    binhash: bc7f962dfb977af654025f0cec384ec5
+    md5: 398fafce256a4dafd38719dc058964c5
 work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/make_diag_table.py:
   fullpath: /home/156/db6174/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/make_diag_table.py
   hashes:
@@ -23914,17 +23929,17 @@ work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/make_di
 work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/manifests/exe.yaml:
   fullpath: /home/156/db6174/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/manifests/exe.yaml
   hashes:
-    binhash: d376a80490247988d187b59767c96e87
+    binhash: c2540664e932e3b1d9516ca64db0e43a
     md5: c2abdb99a7d9c1bebe0c392f686bf675
 work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/manifests/input.yaml:
   fullpath: /home/156/db6174/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/manifests/input.yaml
   hashes:
-    binhash: 735ad37dfce9196fdb43ba71754681d7
-    md5: 0f716b4b54968c9445622381670b18a7
+    binhash: 8e5f0364ba74bb4a50e5b5f49cab4ee6
+    md5: a1698cc2c8a3c16138dcbde79794657f
 work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/manifests/restart.yaml:
   fullpath: /home/156/db6174/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/manifests/restart.yaml
   hashes:
-    binhash: 90dd42fcf85e18765cb6c9245e824759
+    binhash: 3cfa55695ec7d05f95f404c221243797
     md5: 878609bbf19a68a4adb60e0bcac32e2a
 work/INPUT/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/nmltab.py:
   fullpath: /home/156/db6174/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/nmltab.py
