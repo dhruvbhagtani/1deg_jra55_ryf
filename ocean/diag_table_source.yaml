@@ -201,6 +201,7 @@ diag_table:
             mh_flux:
             mld:
             net_sfc_heating:
+            patm_t:
             pbot_t:
             pme_net:
             pme_river:
@@ -218,6 +219,10 @@ diag_table:
             surface_pot_temp:
             surface_salt:
             swflx:
+            sw_flux_vis_dir:
+            sw_flux_vis_dif:
+            sw_flux_nir_dir:
+            sw_flux_nir_dif:
             tau_x:
             tau_y:
             #temp_int_rhodz:

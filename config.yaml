@@ -10,7 +10,7 @@ shortpath: /scratch/x77
 
 queue: normal
 walltime: 3:00:00
-jobname: stress_Pacific
+jobname: con_extended
 mem: 1000GB
 
 # Model configuration
@@ -28,7 +28,7 @@ submodels:
 
     - name: ocean
       model: mom
-      exe: /scratch/x77/db6174/access-om2/bin/fms_ACCESS-OM-BGC_e189181_libaccessom2_392dce3.x
+      exe: /scratch/x77/db6174/access-om2/bin/fms_ACCESS-OM-BGC_88a4903_libaccessom2_392dce3.x
       input: /g/data/ik11/inputs/access-om2/input_20201102/mom_1deg
       ncpus: 216
 
