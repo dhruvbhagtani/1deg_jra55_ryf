@@ -15,7 +15,7 @@
 "OCN", "lprec", "lprec", "INPUT/lprec_new.nc", .true., 1.0
 "OCN", "fprec", "fprec", "INPUT/fprec_new.nc", .true., 1.0
 "OCN", "runoff", "runoff", "INPUT/runoff_new.nc", .true., 1.0
-"OCN", "salt_flux", "sfc_salt_flux_coupler_new", "INPUT/sfc_salt_flux_coupler_new.nc", .true., 1.0
+"OCN", "salt_flux", "sfc_salt_flux_coupler", "INPUT/sfc_salt_flux_coupler_new.nc", .true., 1.0
 #"OCN", "cdlprec","pme","INPUT/pme_flux.nc",.false.,1.0
 #B "OCN", "t_flux","","",.false.,0.0
 #B "OCN", "q_flux","","",.false.,0.0
