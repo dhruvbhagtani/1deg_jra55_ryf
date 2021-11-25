@@ -21,7 +21,7 @@ model: mom
 exe: /scratch/x77/db6174/MoM5/exec/nci/MOM_solo/fms_MOM_solo.x
 input: 
      - /g/data/ik11/inputs/access-om2/input_20201102/mom_1deg
-     - /scratch/x77/db6174/1deg_inputs/flux_forced_attempt1
+     - /scratch/x77/db6174/1deg_inputs/flux_forced_attempt2
      - /home/156/db6174/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/restart_file
      - /home/156/db6174
 # Collation
