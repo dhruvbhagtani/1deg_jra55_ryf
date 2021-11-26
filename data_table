@@ -5,10 +5,10 @@
 # B: in coupled mode, none of the below is required. 
 "OCN", "u_flux", "tau_x",     "INPUT/tau_x_new.nc",     .true.  ,1.0
 "OCN", "v_flux", "tau_y",     "INPUT/tau_y_new.nc",     .true.  ,1.0
-"OCN", "sw_flux_vis_dir", "sw_flux_vis_dir", "INPUT/sw_flux_vis_dir_new.nc", .true. ,1.0
-"OCN", "sw_flux_vis_dif", "sw_flux_vis_dif", "INPUT/sw_flux_vis_dif_new.nc", .true. ,1.0
-"OCN", "sw_flux_nir_dir", "sw_flux_nir_dir", "INPUT/sw_flux_nir_dir_new.nc", .true. ,1.0
-"OCN", "sw_flux_nir_dif", "sw_flux_nir_dif", "INPUT/sw_flux_nir_dif_new.nc", .true. ,1.0
+"OCN", "sw_flux_vis_dir", "sw_flux_vis_dir", "INPUT/sw_flux_vis_dir_new.nc", .true. ,0.25
+"OCN", "sw_flux_vis_dif", "sw_flux_vis_dif", "INPUT/sw_flux_vis_dif_new.nc", .true. ,0.25
+"OCN", "sw_flux_nir_dir", "sw_flux_nir_dir", "INPUT/sw_flux_nir_dir_new.nc", .true. ,0.25
+"OCN", "sw_flux_nir_dif", "sw_flux_nir_dif", "INPUT/sw_flux_nir_dif_new.nc", .true. ,0.25
 "OCN", "lw_flux","lw_heat",   "INPUT/lw_heat_new.nc",   .true. ,1.0
 "OCN", "t_flux", "sens_heat", "INPUT/sens_heat_new.nc", .true. ,1.0
 "OCN", "q_flux", "evap", "INPUT/evap_new.nc", .true. ,1.0
