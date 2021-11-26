@@ -1,6 +1,11 @@
 format: yamanifest
 version: 1.0
 ---
+work/INPUT/cc_database_flux_forced_attempt2.db:
+  fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_attempt2/cc_database_flux_forced_attempt2.db
+  hashes:
+    binhash: ed0c9b4abfd526fa5cad23002ecc676d
+    md5: 8ad6ce46883a848d78e47ba7df9da4aa
 work/INPUT/chl.nc:
   fullpath: /g/data/ik11/inputs/access-om2/input_20201102/mom_1deg/chl.nc
   hashes:
