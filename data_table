@@ -5,7 +5,7 @@
 # B: in coupled mode, none of the below is required. 
 "OCN", "u_flux", "tau_x",     "INPUT/tau_x_new.nc",     .true.  ,1.0
 "OCN", "v_flux", "tau_y",     "INPUT/tau_y_new.nc",     .true.  ,1.0
-"OCN", "sw_flux_vis_dir", "sw_flux_vis_dir", "INPUT/sw_flux_vis_dir_new.nc", .true. ,1.0
+#"OCN", "sw_flux_vis_dir", "sw_flux_vis_dir", "INPUT/sw_flux_vis_dir_new.nc", .true. ,1.0
 #"OCN", "sw_flux_vis_dif", "sw_flux_vis_dif", "INPUT/sw_flux_vis_dif_new.nc", .true. ,1.0
 #"OCN", "sw_flux_nir_dir", "sw_flux_nir_dir", "INPUT/sw_flux_nir_dir_new.nc", .true. ,1.0
 #"OCN", "sw_flux_nir_dif", "sw_flux_nir_dif", "INPUT/sw_flux_nir_dif_new.nc", .true. ,1.0
