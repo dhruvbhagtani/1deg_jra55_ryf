@@ -14,8 +14,8 @@ work/INPUT/chl.nc:
 work/INPUT/evap.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_attempt2/evap.nc
   hashes:
-    binhash: 30347e8c108292f237e1ee1009536743
-    md5: feee7b233742db046a2f184571c70e2b
+    binhash: a40250e1dda7c38603233c36e96933e9
+    md5: 1d69e0b895af487c213f55bc7d8db173
 work/INPUT/evap_heat.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_attempt2/evap_heat.nc
   hashes:
@@ -29,8 +29,8 @@ work/INPUT/evap_heat_new.nc:
 work/INPUT/evap_new.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_attempt2/evap_new.nc
   hashes:
-    binhash: 883c546c934bcfee539f72d233b95b64
-    md5: 55f310a98e9b2c1f8470aa4d53347810
+    binhash: a4daec593b5c86e23508b4a8538d5a61
+    md5: f2d5cc4fa827f5aee636543f29c35b50
 work/INPUT/fprec.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_attempt2/fprec.nc
   hashes:
