@@ -133,11 +133,11 @@ diag_table:
             hu:
             kmt:
             kmu:
-    'daily 3d fields':
+    'monthly 3d fields':
         defaults:  # these can be overridden for individual fields below
             file_name_dimension: 3d  # descriptor for filename, e.g. 3d, 2d, scalar
             output_freq: 1  # integer: output sampling frequency in output_freq_units (0: every timestep; -1: only at end of run)
-            output_freq_units: days  # time units for output: years, months, days, hours, minutes, or seconds
+            output_freq_units: months  # time units for output: years, months, days, hours, minutes, or seconds
         fields:
             # age_global:
             # aiso_bih:
@@ -168,20 +168,20 @@ diag_table:
             # vert_pv:
             # vorticity_z:
             wt:
-    'daily 3d squared fields':  # for calculating EKE etc
+    'monthly 3d squared fields':  # for calculating EKE etc
         defaults:  # these can be overridden for individual fields below
             file_name_dimension: 3d  # descriptor for filename, e.g. 3d, 2d, scalar
             output_freq: 1  # integer: output sampling frequency in output_freq_units (0: every timestep; -1: only at end of run)
-            output_freq_units: days  # time units for output: years, months, days, hours, minutes, or seconds
+            output_freq_units: months  # time units for output: years, months, days, hours, minutes, or seconds
             reduction_method: pow02  # mean, snap, rms, pow##, min, max, or diurnal##
         fields:
             # u:
             # v:
-    'daily 2d fields':
+    'monthly 2d fields':
         defaults:  # these can be overridden for individual fields below
             file_name_dimension: 2d  # descriptor for filename, e.g. 3d, 2d, scalar
             output_freq: 1  # integer: output sampling frequency in output_freq_units (0: every timestep; -1: only at end of run)
-            output_freq_units: days  # time units for output: years, months, days, hours, minutes, or seconds
+            output_freq_units: months  # time units for output: years, months, days, hours, minutes, or seconds
         fields:
             # agm:
             # aredi:

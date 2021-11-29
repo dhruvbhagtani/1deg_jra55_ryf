@@ -91,11 +91,6 @@ work/INPUT/ocean_mosaic.nc:
   hashes:
     binhash: 6aadd388078defe3f80df6f3de77b4bd
     md5: cb42e630ee31d3686156fcbdc2f9d07c
-work/INPUT/ocean_solo.intermediate.res:
-  fullpath: /home/156/db6174/access-om2/1deg_jra55_ryf/1deg_jra55_ryf_flux_forced_attempt1/restart_file/ocean_solo.intermediate.res
-  hashes:
-    binhash: 06ebd75818cb7bd7302ece95da285f1d
-    md5: 0e9b03429743d881a0c435b9c0bd70a4
 work/INPUT/ocean_temp_salt.res.nc:
   fullpath: /g/data/ik11/inputs/access-om2/input_20201102/mom_1deg/ocean_temp_salt.res.nc
   hashes:
@@ -144,13 +139,13 @@ work/INPUT/salt_sfc_restore.nc:
 work/INPUT/sens_heat.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_attempt2/sens_heat.nc
   hashes:
-    binhash: f733520b7305ba3615d3fe113926820c
-    md5: 143801a8dfd2165265a30a57bcda5110
+    binhash: aa87144f263d925473f05f7c171b153b
+    md5: 58ceb0689787131fa91ab16d1d351483
 work/INPUT/sens_heat_new.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_attempt2/sens_heat_new.nc
   hashes:
-    binhash: f47acd4b243227e8778ea46892874075
-    md5: f75fa188af3bf1972b424cd055cbc9e7
+    binhash: 1f82247b84f19c7c1175237e70c0c5ec
+    md5: 54fa3f11d3552c6023d47b1a99366c65
 work/INPUT/sfc_salt_flux_coupler.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_attempt2/sfc_salt_flux_coupler.nc
   hashes:
