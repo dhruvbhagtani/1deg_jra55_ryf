@@ -455,7 +455,7 @@
 /
 
 &ocean_tracer_diag_nml
-    diag_step         = 4320
+    diag_step         = 10
     do_bitwise_exact_sum = .false.
     tracer_conserve_days = 30.0
 /
