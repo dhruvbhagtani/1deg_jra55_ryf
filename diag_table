@@ -187,6 +187,18 @@ ACCESS-OM2
 "ocean-2d-surface_salt-1-monthly-mean-ym%4yr%2mo", 1, "months", 1, "days", "time", 1, "years"
 "ocean_model", "surface_salt", "surface_salt", "ocean-2d-surface_salt-1-monthly-mean-ym%4yr%2mo", "all", "average", "none", 2
 
+"ocean-2d-sw_flux_nir_dir-1-monthly-mean-ym%4yr%2mo", 1, "months", 1, "days", "time", 1, "years"
+"ocean_model", "sw_flux_nir_dir", "sw_flux_nir_dir", "ocean-2d-sw_flux_nir_dir-1-monthly-mean-ym%4yr%2mo", "all", "average", "none", 2
+
+"ocean-2d-sw_flux_nir_dif-1-monthly-mean-ym%4yr%2mo", 1, "months", 1, "days", "time", 1, "years"
+"ocean_model", "sw_flux_nir_dif", "sw_flux_nir_dif", "ocean-2d-sw_flux_nir_dif-1-monthly-mean-ym%4yr%2mo", "all", "average", "none", 2
+
+"ocean-2d-sw_flux_vis_dir-1-monthly-mean-ym%4yr%2mo", 1, "months", 1, "days", "time", 1, "years"
+"ocean_model", "sw_flux_vis_dir", "sw_flux_vis_dir", "ocean-2d-sw_flux_vis_dir-1-monthly-mean-ym%4yr%2mo", "all", "average", "none", 2
+
+"ocean-2d-sw_flux_vis_dif-1-monthly-mean-ym%4yr%2mo", 1, "months", 1, "days", "time", 1, "years"
+"ocean_model", "sw_flux_vis_dif", "sw_flux_vis_dif", "ocean-2d-sw_flux_vis_dif-1-monthly-mean-ym%4yr%2mo", "all", "average", "none", 2
+
 "ocean-2d-swflx-1-monthly-mean-ym%4yr%2mo", 1, "months", 1, "days", "time", 1, "years"
 "ocean_model", "swflx", "swflx", "ocean-2d-swflx-1-monthly-mean-ym%4yr%2mo", "all", "average", "none", 2
 

@@ -217,6 +217,10 @@ diag_table:
             sfc_salt_flux_restore:
             surface_pot_temp:
             surface_salt:
+            sw_flux_nir_dir:
+            sw_flux_nir_dif:
+            sw_flux_vis_dir:
+            sw_flux_vis_dif:
             swflx:
             tau_x:
             tau_y:
