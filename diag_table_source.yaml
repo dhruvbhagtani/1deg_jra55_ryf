@@ -270,6 +270,12 @@ diag_table:
             sw_flux_vis_dif:
             sw_flux_nir_dir:
             sw_flux_nir_dif:
+            sens_heat:
+            tau_x:
+            tau_y:
+            lw_heat:
+            evap:
+
     'daily 2d maximum fields':
         defaults:  # these can be overridden for individual fields below
             file_name_dimension: 2d  # descriptor for filename, e.g. 3d, 2d, scalar

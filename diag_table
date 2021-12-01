@@ -244,6 +244,21 @@ ACCESS-OM2
 "ocean-2d-sw_flux_nir_dif-1-daily-mean-ym%4yr%2mo", 1, "days", 1, "days", "time", 1, "years"
 "ocean_model", "sw_flux_nir_dif", "sw_flux_nir_dif", "ocean-2d-sw_flux_nir_dif-1-daily-mean-ym%4yr%2mo", "all", "average", "none", 2
 
+"ocean-2d-sens_heat-1-daily-mean-ym%4yr%2mo", 1, "days", 1, "days", "time", 1, "years"
+"ocean_model", "sens_heat", "sens_heat", "ocean-2d-sens_heat-1-daily-mean-ym%4yr%2mo", "all", "average", "none", 2
+
+"ocean-2d-tau_x-1-daily-mean-ym%4yr%2mo", 1, "days", 1, "days", "time", 1, "years"
+"ocean_model", "tau_x", "tau_x", "ocean-2d-tau_x-1-daily-mean-ym%4yr%2mo", "all", "average", "none", 2
+
+"ocean-2d-tau_y-1-daily-mean-ym%4yr%2mo", 1, "days", 1, "days", "time", 1, "years"
+"ocean_model", "tau_y", "tau_y", "ocean-2d-tau_y-1-daily-mean-ym%4yr%2mo", "all", "average", "none", 2
+
+"ocean-2d-lw_heat-1-daily-mean-ym%4yr%2mo", 1, "days", 1, "days", "time", 1, "years"
+"ocean_model", "lw_heat", "lw_heat", "ocean-2d-lw_heat-1-daily-mean-ym%4yr%2mo", "all", "average", "none", 2
+
+"ocean-2d-evap-1-daily-mean-ym%4yr%2mo", 1, "days", 1, "days", "time", 1, "years"
+"ocean_model", "evap", "evap", "ocean-2d-evap-1-daily-mean-ym%4yr%2mo", "all", "average", "none", 2
+
 
 # daily 2d maximum fields
 
