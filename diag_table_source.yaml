@@ -247,12 +247,13 @@ diag_table:
         fields:
             mld: {reduction_method: max}  # max avoids spurious small values due to rainfall
             # surface_pot_temp: {reduction_method: min}  # min for comparison with foundation temperature
-#   'daily 2d fields':
-#        defaults:  # these can be overridden for individual fields below
-#            file_name_dimension: 2d  # descriptor for filename, e.g. 3d, 2d, scalar
-#            output_freq: 1  # integer: output sampling frequency in output_freq_units (0: every timestep; -1: only at end of run)
-#            output_freq_units: days  # time units for output: years, months, days, hours, minutes, or seconds
-#        fields:
+    'daily 2d fields':
+        defaults:  # these can be overridden for individual fields below
+            file_name_dimension: 2d  # descriptor for filename, e.g. 3d, 2d, scalar
+            output_freq: 1  # integer: output sampling frequency in output_freq_units (0: every timestep; -1: only at end of run)
+            output_freq_units: days  # time units for output: years, months, days, hours, minutes, or seconds
+        fields:
+            swflx:
             # bottom_temp:
             # frazil_3d_int_z:
             # mld:
@@ -265,6 +266,10 @@ diag_table:
             # surface_salt:
             #usurf:
             #vsurf:
+            sw_flux_vis_dir:
+            sw_flux_vis_dif:
+            sw_flux_nir_dir:
+            sw_flux_nir_dif:
     'daily 2d maximum fields':
         defaults:  # these can be overridden for individual fields below
             file_name_dimension: 2d  # descriptor for filename, e.g. 3d, 2d, scalar
