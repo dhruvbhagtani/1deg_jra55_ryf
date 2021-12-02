@@ -274,6 +274,10 @@ diag_table:
             tau_x:
             tau_y:
             lw_heat:
+            lprec:
+            fprec:
+            sfc_salt_flux_coupler:
+            runoff:
             evap:
 
     'daily 2d maximum fields':
