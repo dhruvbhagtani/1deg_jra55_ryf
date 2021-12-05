@@ -279,7 +279,7 @@ diag_table:
             sfc_salt_flux_coupler:
             runoff:
             evap:
-
+            ustar:
     'daily 2d maximum fields':
         defaults:  # these can be overridden for individual fields below
             file_name_dimension: 2d  # descriptor for filename, e.g. 3d, 2d, scalar
