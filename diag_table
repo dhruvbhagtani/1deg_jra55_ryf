@@ -274,8 +274,8 @@ ACCESS-OM2
 "ocean-2d-ustar-1-daily-mean-ym%4yr%2mo", 1, "days", 1, "days", "time", 1, "years"
 "ocean_model", "ustar", "ustar", "ocean-2d-ustar-1-daily-mean-ym%4yr%2mo", "all", "average", "none", 2
 
-"ocean-2d-u10-1-daily-mean-ym%4yr%2mo", 1, "days", 1, "days", "time", 1, "years"
-"ocean_model", "u10", "u10", "ocean-2d-u10-1-daily-mean-ym%4yr%2mo", "all", "average", "none", 2
+"ocean-2d-wnd-1-daily-mean-ym%4yr%2mo", 1, "days", 1, "days", "time", 1, "years"
+"ocean_model", "wnd", "wnd", "ocean-2d-wnd-1-daily-mean-ym%4yr%2mo", "all", "average", "none", 2
 
 
 # daily 2d maximum fields
