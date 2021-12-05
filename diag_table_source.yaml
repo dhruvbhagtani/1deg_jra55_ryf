@@ -280,6 +280,7 @@ diag_table:
             runoff:
             evap:
             ustar:
+            u10:
     'daily 2d maximum fields':
         defaults:  # these can be overridden for individual fields below
             file_name_dimension: 2d  # descriptor for filename, e.g. 3d, 2d, scalar
