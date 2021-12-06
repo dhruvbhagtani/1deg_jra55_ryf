@@ -266,21 +266,21 @@ diag_table:
             # surface_salt:
             #usurf:
             #vsurf:
-            sw_flux_vis_dir:
-            sw_flux_vis_dif:
-            sw_flux_nir_dir:
-            sw_flux_nir_dif:
-            sens_heat:
-            tau_x:
-            tau_y:
-            lw_heat:
-            lprec:
-            fprec:
-            sfc_salt_flux_coupler:
-            runoff:
-            evap:
-            ustar:
-            wnd:
+            #sw_flux_vis_dir:
+            #sw_flux_vis_dif:
+            #sw_flux_nir_dir:
+            #sw_flux_nir_dif:
+            #sens_heat:
+            #tau_x:
+            #tau_y:
+            #lw_heat:
+            #lprec:
+            #fprec:
+            #sfc_salt_flux_coupler:
+            #runoff:
+            #evap:
+            #ustar:
+            #wnd:
     'daily 2d maximum fields':
         defaults:  # these can be overridden for individual fields below
             file_name_dimension: 2d  # descriptor for filename, e.g. 3d, 2d, scalar

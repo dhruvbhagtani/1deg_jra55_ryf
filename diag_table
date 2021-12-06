@@ -232,51 +232,6 @@ ACCESS-OM2
 "ocean-2d-swflx-1-daily-mean-ym%4yr%2mo", 1, "days", 1, "days", "time", 1, "years"
 "ocean_model", "swflx", "swflx", "ocean-2d-swflx-1-daily-mean-ym%4yr%2mo", "all", "average", "none", 2
 
-"ocean-2d-sw_flux_vis_dir-1-daily-mean-ym%4yr%2mo", 1, "days", 1, "days", "time", 1, "years"
-"ocean_model", "sw_flux_vis_dir", "sw_flux_vis_dir", "ocean-2d-sw_flux_vis_dir-1-daily-mean-ym%4yr%2mo", "all", "average", "none", 2
-
-"ocean-2d-sw_flux_vis_dif-1-daily-mean-ym%4yr%2mo", 1, "days", 1, "days", "time", 1, "years"
-"ocean_model", "sw_flux_vis_dif", "sw_flux_vis_dif", "ocean-2d-sw_flux_vis_dif-1-daily-mean-ym%4yr%2mo", "all", "average", "none", 2
-
-"ocean-2d-sw_flux_nir_dir-1-daily-mean-ym%4yr%2mo", 1, "days", 1, "days", "time", 1, "years"
-"ocean_model", "sw_flux_nir_dir", "sw_flux_nir_dir", "ocean-2d-sw_flux_nir_dir-1-daily-mean-ym%4yr%2mo", "all", "average", "none", 2
-
-"ocean-2d-sw_flux_nir_dif-1-daily-mean-ym%4yr%2mo", 1, "days", 1, "days", "time", 1, "years"
-"ocean_model", "sw_flux_nir_dif", "sw_flux_nir_dif", "ocean-2d-sw_flux_nir_dif-1-daily-mean-ym%4yr%2mo", "all", "average", "none", 2
-
-"ocean-2d-sens_heat-1-daily-mean-ym%4yr%2mo", 1, "days", 1, "days", "time", 1, "years"
-"ocean_model", "sens_heat", "sens_heat", "ocean-2d-sens_heat-1-daily-mean-ym%4yr%2mo", "all", "average", "none", 2
-
-"ocean-2d-tau_x-1-daily-mean-ym%4yr%2mo", 1, "days", 1, "days", "time", 1, "years"
-"ocean_model", "tau_x", "tau_x", "ocean-2d-tau_x-1-daily-mean-ym%4yr%2mo", "all", "average", "none", 2
-
-"ocean-2d-tau_y-1-daily-mean-ym%4yr%2mo", 1, "days", 1, "days", "time", 1, "years"
-"ocean_model", "tau_y", "tau_y", "ocean-2d-tau_y-1-daily-mean-ym%4yr%2mo", "all", "average", "none", 2
-
-"ocean-2d-lw_heat-1-daily-mean-ym%4yr%2mo", 1, "days", 1, "days", "time", 1, "years"
-"ocean_model", "lw_heat", "lw_heat", "ocean-2d-lw_heat-1-daily-mean-ym%4yr%2mo", "all", "average", "none", 2
-
-"ocean-2d-lprec-1-daily-mean-ym%4yr%2mo", 1, "days", 1, "days", "time", 1, "years"
-"ocean_model", "lprec", "lprec", "ocean-2d-lprec-1-daily-mean-ym%4yr%2mo", "all", "average", "none", 2
-
-"ocean-2d-fprec-1-daily-mean-ym%4yr%2mo", 1, "days", 1, "days", "time", 1, "years"
-"ocean_model", "fprec", "fprec", "ocean-2d-fprec-1-daily-mean-ym%4yr%2mo", "all", "average", "none", 2
-
-"ocean-2d-sfc_salt_flux_coupler-1-daily-mean-ym%4yr%2mo", 1, "days", 1, "days", "time", 1, "years"
-"ocean_model", "sfc_salt_flux_coupler", "sfc_salt_flux_coupler", "ocean-2d-sfc_salt_flux_coupler-1-daily-mean-ym%4yr%2mo", "all", "average", "none", 2
-
-"ocean-2d-runoff-1-daily-mean-ym%4yr%2mo", 1, "days", 1, "days", "time", 1, "years"
-"ocean_model", "runoff", "runoff", "ocean-2d-runoff-1-daily-mean-ym%4yr%2mo", "all", "average", "none", 2
-
-"ocean-2d-evap-1-daily-mean-ym%4yr%2mo", 1, "days", 1, "days", "time", 1, "years"
-"ocean_model", "evap", "evap", "ocean-2d-evap-1-daily-mean-ym%4yr%2mo", "all", "average", "none", 2
-
-"ocean-2d-ustar-1-daily-mean-ym%4yr%2mo", 1, "days", 1, "days", "time", 1, "years"
-"ocean_model", "ustar", "ustar", "ocean-2d-ustar-1-daily-mean-ym%4yr%2mo", "all", "average", "none", 2
-
-"ocean-2d-wnd-1-daily-mean-ym%4yr%2mo", 1, "days", 1, "days", "time", 1, "years"
-"ocean_model", "wnd", "wnd", "ocean-2d-wnd-1-daily-mean-ym%4yr%2mo", "all", "average", "none", 2
-
 
 # daily 2d maximum fields
 
