@@ -29,7 +29,7 @@
 /
 
 &ocean_adv_vel_diag_nml
-    diag_step         = 96
+    diag_step         = 4320
     large_cfl_value   = 10.0
     max_cfl_value     = 100.0
     verbose_cfl       = .true.
