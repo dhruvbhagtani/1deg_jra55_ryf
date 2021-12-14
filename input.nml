@@ -140,7 +140,7 @@
     frazil_only_in_surface = .false.
     freezing_temp_preteos10 = .true.
     freezing_temp_simple = .false.
-    use_this_module   = .false.
+    use_this_module   = .true.
 /
 
 &ocean_grids_nml

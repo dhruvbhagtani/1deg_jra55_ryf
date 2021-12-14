@@ -9,33 +9,33 @@ work/INPUT/chl.nc:
 work/INPUT/evap.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_with_mhflux/evap.nc
   hashes:
-    binhash: e94e8abfb736839d4447bbdd04c2758a
+    binhash: 8708355154312102bbc72af2f2af6da4
     md5: ef51796f52e2747f96c5c5c59665bcb9
 work/INPUT/evap_heat.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_with_mhflux/evap_heat.nc
   hashes:
-    binhash: f1ebb80a01c87b1c15085b51b5e501f7
+    binhash: 14de09ffff08b3b61a6300cab71ba433
     md5: 981e2754dfb7b5cda22ca80b5d08d02e
 work/INPUT/evap_heat_new.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_with_mhflux/evap_heat_new.nc
   hashes:
-    binhash: 5e5712e03422215f03ad13cce6054b6f
-    md5: 0dd836b58f0acca0124180ab493fdcc2
+    binhash: 5e32480b1ed2daf7559e5bc711925888
+    md5: d7387594ec6e46a5708e01423dcc38a4
 work/INPUT/evap_new.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_with_mhflux/evap_new.nc
   hashes:
-    binhash: a4b4982d6b25f90a430a51d93debf71d
-    md5: a07ce33264cd7a593c37a5883671c2e7
+    binhash: 4424c4220eb42f30428a83268074f2c6
+    md5: 45e62e2f769ada98eff9fa58f5d5e312
 work/INPUT/fprec.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_with_mhflux/fprec.nc
   hashes:
-    binhash: cf9503cad60b8c05e326780dd0a5421d
+    binhash: ddd58643f2e32ad421ce48e4dacf439c
     md5: 35d920b96276176f35132aaabb2d0d19
 work/INPUT/fprec_new.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_with_mhflux/fprec_new.nc
   hashes:
-    binhash: d3cc002b784170f5759a78866b64c49e
-    md5: dd0b9b754494064b2c0c6b5d0cf8b4cb
+    binhash: 60a0c2abfdd9435e1f7ac86829352e8c
+    md5: 30b58f987d773b163e2b5dba6f259d46
 work/INPUT/grid_spec.nc:
   fullpath: /g/data/ik11/inputs/access-om2/input_20201102/mom_1deg/grid_spec.nc
   hashes:
@@ -44,23 +44,23 @@ work/INPUT/grid_spec.nc:
 work/INPUT/lprec.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_with_mhflux/lprec.nc
   hashes:
-    binhash: ebe06cfe5fd56580aa00576f01921add
+    binhash: 013d650fc585cc7781fdd0526d97e9e9
     md5: 5bac831d48ab32eeb0f9eefa643ed518
 work/INPUT/lprec_new.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_with_mhflux/lprec_new.nc
   hashes:
-    binhash: 70e2f810b3367a8c97377b4489e409df
-    md5: d37aea9a5aed9010fd5e385939df9ae2
+    binhash: 9d1831c2ead9aad11450f926cced081c
+    md5: ca326bf7738b47866f4ba4c1e95a3645
 work/INPUT/lw_heat.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_with_mhflux/lw_heat.nc
   hashes:
-    binhash: 686e16a5ffed55d1db29da530c0dee0b
-    md5: e79e76bb1d336ce50c75372d3b710ba5
+    binhash: 581e1992e453046447c097df39ae0ab0
+    md5: eee6192c2dee7ee0d5e1b309a823d7ce
 work/INPUT/lw_heat_new.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_with_mhflux/lw_heat_new.nc
   hashes:
-    binhash: 5ce213ba5c425b688e32401f4467e29b
-    md5: 091cd57f82fd9357444b58913871959f
+    binhash: be20dbb5f076e49fe01b71a98361a9e3
+    md5: eed29abe4f6f029c39ce08960f3855e2
 work/INPUT/mask_table.24.16x15:
   fullpath: /g/data/ik11/inputs/access-om2/input_20201102/mom_1deg/mask_table.24.16x15
   hashes:
@@ -99,13 +99,13 @@ work/INPUT/ocean_vgrid.nc:
 work/INPUT/patm_t.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_with_mhflux/patm_t.nc
   hashes:
-    binhash: e5a2f8db9b118439b7667875739cd9b6
+    binhash: 2ce4dae85dd00f7c6e1ef66828e92049
     md5: 2b1e14edb4a5bfc9060684d2268dd888
 work/INPUT/patm_t_new.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_with_mhflux/patm_t_new.nc
   hashes:
-    binhash: 8d17bc36724feb5c561009d3accbca24
-    md5: f0bce28488277b8c2a059e5dfe2226e0
+    binhash: e38b61ef92caca4d424f6c0386948b1c
+    md5: 9e73c00ad44f2b4774bb92877f0e20b0
 work/INPUT/roughness_amp.nc:
   fullpath: /g/data/ik11/inputs/access-om2/input_20201102/mom_1deg/roughness_amp.nc
   hashes:
@@ -119,13 +119,13 @@ work/INPUT/roughness_cdbot.nc:
 work/INPUT/runoff.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_with_mhflux/runoff.nc
   hashes:
-    binhash: 6ed848d2ff4512597d2e527fbde415dc
+    binhash: 7b32fc89633d13e0ece7fcdc655175d1
     md5: 14388dd6ab5894a5e84a1aabcec7c143
 work/INPUT/runoff_new.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_with_mhflux/runoff_new.nc
   hashes:
-    binhash: a729a7c09523bd8ab9d9495943e8624d
-    md5: bb33cd44b59a353555b7989722d70699
+    binhash: 1e44614e90ebb9a755cabce77b785e91
+    md5: a9db13b7e031edf743ea85f1e5c7d2e7
 work/INPUT/salt_sfc_restore.nc:
   fullpath: /g/data/ik11/inputs/access-om2/input_20201102/mom_1deg/salt_sfc_restore.nc
   hashes:
@@ -134,83 +134,83 @@ work/INPUT/salt_sfc_restore.nc:
 work/INPUT/sens_heat.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_with_mhflux/sens_heat.nc
   hashes:
-    binhash: 5722933d3a7d5394d69a10ff3385e562
+    binhash: 4514828ce9e970933d028afc7eaf95f9
     md5: 3bfd11eb33e8f147d5345d3a9f983658
 work/INPUT/sens_heat_new.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_with_mhflux/sens_heat_new.nc
   hashes:
-    binhash: cbb880246b001a85018f10519d215ef0
-    md5: 8c44ec34170eed8904acfb36679653ff
+    binhash: 2cbed00e34c8e9b9c60e02b012d813a5
+    md5: aa6c3eb621effba60328a7819a051e22
 work/INPUT/sfc_salt_flux_coupler.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_with_mhflux/sfc_salt_flux_coupler.nc
   hashes:
-    binhash: 8ea1c84d8311ea4e328893f947474f59
+    binhash: 825e1e6382547098eae206c70e28cf28
     md5: f192f3129153a4d22d8989d98559b3f7
 work/INPUT/sfc_salt_flux_coupler_new.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_with_mhflux/sfc_salt_flux_coupler_new.nc
   hashes:
-    binhash: c242400dac3311f86def73e1b6f36192
-    md5: ccd1aa5f7805fddef9aa3a32704a770e
+    binhash: 29b2263909f642f470f048f7dfb61e52
+    md5: 8d718f493e619f0051ad18603c45128c
 work/INPUT/sw_flux_nir_dif.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_with_mhflux/sw_flux_nir_dif.nc
   hashes:
-    binhash: 0ddffde652c0538ab126361eb7cd412f
+    binhash: 04e262f27d6b1ec1cf2aa864923c44a4
     md5: e92c8fba258a973314ebd1035878793e
 work/INPUT/sw_flux_nir_dif_new.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_with_mhflux/sw_flux_nir_dif_new.nc
   hashes:
-    binhash: ab52549d96756cb5affbd51f10d7e88d
-    md5: 181d9a54fd6877b7674f9997224d5939
+    binhash: c739ac1818e6f71926f1fccfdcef381a
+    md5: d5568bbe07a8a55a42c6e29b02d20796
 work/INPUT/sw_flux_nir_dir.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_with_mhflux/sw_flux_nir_dir.nc
   hashes:
-    binhash: 3b5feee175b67ec2a46f8268e5bffedf
+    binhash: ae979863d8092b6f2b318a25a7dff100
     md5: d8da3a5d70e3e92c381e79d9850b9589
 work/INPUT/sw_flux_nir_dir_new.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_with_mhflux/sw_flux_nir_dir_new.nc
   hashes:
-    binhash: 832cc38e681ea8240ebf5c57244873cd
-    md5: 13da552893081b160cee0026afb20223
+    binhash: 0ba95d7ae2f97f8e05921c316239cae9
+    md5: 3e0852ded1e5dab366379e36bc09254d
 work/INPUT/sw_flux_vis_dif.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_with_mhflux/sw_flux_vis_dif.nc
   hashes:
-    binhash: 130f7c5eb03608599f5c31f81405c233
+    binhash: c56878b72d0f34b6529e1dff8a509c5c
     md5: 52dd49e81ca73c50701d989a10800d2d
 work/INPUT/sw_flux_vis_dif_new.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_with_mhflux/sw_flux_vis_dif_new.nc
   hashes:
-    binhash: 72c8da77424d35cc23aa166222005c7b
-    md5: edb582240d905e3883b7109dc4a8d18d
+    binhash: cf962b3f0467e17db10b8da18b7e4785
+    md5: 1e96f0230a717169359252e87db3b051
 work/INPUT/sw_flux_vis_dir.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_with_mhflux/sw_flux_vis_dir.nc
   hashes:
-    binhash: 556492a8b1e3c3c8ceca6c10191349b6
+    binhash: 737bf63b25e3c11ab56c50c91b591a30
     md5: 5ff8a905ac0b601d7e48dcc68f950560
 work/INPUT/sw_flux_vis_dir_new.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_with_mhflux/sw_flux_vis_dir_new.nc
   hashes:
-    binhash: b4c0b4e628056a70a837cd7dfa68eea1
-    md5: 74009aac9eae1d648fa21c954f32be2b
+    binhash: 2ddccb214e95d0b244ae891db2863e30
+    md5: 3bba6943832b84860a7448b3b6a39eb3
 work/INPUT/tau_x.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_with_mhflux/tau_x.nc
   hashes:
-    binhash: 0b105a6713e2d62937112105aeb99533
+    binhash: 28f61adaeffd15949ddbe52fb371f859
     md5: fc7dbca7773cc580070acc6a5c9de383
 work/INPUT/tau_x_new.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_with_mhflux/tau_x_new.nc
   hashes:
-    binhash: 47be4845b3aedcbac1bf3d6350d3b103
-    md5: 609fb42db4c67f79bd4733937aa681bb
+    binhash: 334a5e4004cce10d524bccb9cbd8b106
+    md5: ef5c14511e8a56dc9dd3ee046f8be7a3
 work/INPUT/tau_y.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_with_mhflux/tau_y.nc
   hashes:
-    binhash: 4e6d1fd1eb93e4a6cb6faa08fd262e42
+    binhash: e6d94035e98ddddbeeb658875416d686
     md5: 7bce378c0078bd3c11c54b3959a3570d
 work/INPUT/tau_y_new.nc:
   fullpath: /scratch/x77/db6174/1deg_inputs/flux_forced_with_mhflux/tau_y_new.nc
   hashes:
-    binhash: 1d4f5291e5601dfc6a9674d463e6f086
-    md5: 45a48072543302315b02439c5a296333
+    binhash: 1431ea3fb80650b9f99e6309ba8de730
+    md5: cce346092a482333c577fafa76a2d97d
 work/INPUT/tideamp.nc:
   fullpath: /g/data/ik11/inputs/access-om2/input_20201102/mom_1deg/tideamp.nc
   hashes:
