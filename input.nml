@@ -382,9 +382,9 @@
     hours = 0
     minutes = 0
     seconds = 0
-    date_init = 1900,1,1,0,0,0
+    date_init = 2000,1,1,0,0,0
     calendar = 'noleap'
-    dt_cpld = 86400
+    dt_cpld = 10800
 /
 
 &ocean_sponges_eta_nml
