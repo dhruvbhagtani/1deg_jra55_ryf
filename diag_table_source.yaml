@@ -15,7 +15,7 @@
 global_defaults:
 # global_section:
     title: ACCESS-OM2  # any string
-    base_date: [ 1900, 1, 1, 0, 0, 0 ]  # reference time used for the time units. six integers: year, month, day, hour, minute, second
+    base_date: [ 2000, 1, 1, 0, 0, 0 ]  # reference time used for the time units. six integers: year, month, day, hour, minute, second
 # file section:
     file_name:  # file name (without trailing ".nc") is constructed from these components,
     # separated by file_name_separator, as per https://github.com/COSIMA/access-om2/issues/185
